@@ -22,7 +22,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
 
-[![Linkedin: Magesh D](https://img.shields.io/badge/-Magesh D-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/magesh-d-704823248/)](https://www.linkedin.com/in/magesh-d-704823248/)
+[![Linkedin: Magesh](https://img.shields.io/badge/-Magesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/magesh-d-704823248/)](https://www.linkedin.com/in/magesh-d-704823248/)
 <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=magesh-d-704823248" target="_blank">Follow on LinkedIn</a>
 [![GitHub Magesh](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/mageshdevelop)
 
